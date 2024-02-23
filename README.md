@@ -1,3 +1,23 @@
+# Social Networking Web App,
+
+A social networking demo app, Which is created with services within Virtual-Machines and they are configured together.
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  git clone https://github.com/mohdumair8896/vprofile-project.git
+```
+
+```bash
+  cd vprofile-project\vagrant\Automated_provisioning_WinMacIntel\ 
+```
+
+```bash
+  vagrant up
+```
+
 # Prerequisites
 #
 - JDK 11 
@@ -15,11 +35,5 @@
 - Memcached
 - Rabbitmq
 - ElasticSearch
-# Database
-Here,we used Mysql DB 
-sql dump file:
-- /src/main/resources/db_backup.sql
-- db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
-- > mysql -u <user_name> -p accounts < db_backup.sql
 
 
