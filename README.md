@@ -1,4 +1,4 @@
-# Social Networking Web App,
+# Social Networking Web App
 
 A social networking demo app, Which is created with services within Virtual-Machines and they are configured together.
 
