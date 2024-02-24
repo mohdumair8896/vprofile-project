@@ -2,7 +2,7 @@
 
 A social networking demo app, Which is created with services within Virtual-Machines and they are configured together.
 
-<img src="https://github.com/mohdumair8896/vprofile-project/blob/main/src/main/webapp/resources/Images/vprofile%20projectsetup%20Automate.png" width="500" height="200"/>
+<img src="https://github.com/mohdumair8896/vprofile-project/blob/main/src/main/webapp/resources/Images/vprofile%20projectsetup%20Automate.png" width="500" height="300"/>
 
 ## Deployment
 
