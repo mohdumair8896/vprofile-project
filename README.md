@@ -4,6 +4,8 @@ A social networking demo app, Which is created with services within Virtual-Mach
 
 ![App Screenshot](https://github.com/mohdumair8896/vprofile-project/blob/main/src/main/webapp/resources/Images/vprofile%20projectsetup%20Automate.png)
 
+![Logo](https://github.com/mohdumair8896/vprofile-project/blob/main/src/main/webapp/resources/Images/vprofile%20projectsetup%20Automate.png)
+
 ## Deployment
 
 To deploy this project run
