@@ -2,6 +2,8 @@
 
 A social networking demo app, Which is created with services within Virtual-Machines and they are configured together.
 
+![App Screenshot](https://github.com/mohdumair8896/vprofile-project/blob/main/src/main/webapp/resources/Images/vprofile%20projectsetup%20Automate.png)
+
 ## Deployment
 
 To deploy this project run
